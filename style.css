@@ -21,7 +21,7 @@ body {
   justify-content: center;
   align-items: center;
   text-align: center;
-  width: 290px;
+  width: 18.125rem;
   background-color: hsl(0, 0%, 100%);
   border-radius: 0.9375rem;
   padding: 0.9375rem;
@@ -34,12 +34,12 @@ h1.card_title {
   color: hsl(218, 44%, 22%);
   font-weight: 700;
   font-size: 1.375rem;
-  margin: 0.9375rem;
+  margin: 0.9375rem 0;
 }
 p.card_desc {
   color: hsl(220, 15%, 55%);
   font-weight: 400;
   font-size: 0.9375rem;
-  margin: 0.9375rem;
-  padding-bottom: 1.25rem;
+  margin: 0.625rem 0;
+  padding-bottom: 1rem;
 }
